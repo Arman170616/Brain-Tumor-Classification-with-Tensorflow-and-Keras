@@ -4,6 +4,9 @@
 
 
 
+Image Dataset Link:
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+
 process_
 1. Import Statements
 2. One Hot Encoding the target classes
